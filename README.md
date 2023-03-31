@@ -1,0 +1,2 @@
+# SCC
+challenge 1
